@@ -270,6 +270,7 @@ footer p {
         margin: 2% auto;
     }
     .sidebar {
+        display: none;
         margin-left: 3%;
         width: 130px;
         height: 97rem;
